@@ -92,10 +92,9 @@ $(function(){
 					  var y =90;		
 					  
 					  $(this).animate({"margin-bottom":90},200,vibrant);
-
+					$
 				}
-				
-									
+				window.open('content/music/music.html');			
 							  
 					  function vibrant(){
 						  
