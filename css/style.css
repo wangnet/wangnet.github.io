@@ -32,10 +32,7 @@ body{
 }
 /*---start-header----*/
 .header{
-	ackground:url(../images/border.png) repeat-x 0px 0px #FFFFFF;
-	filter:alpha(Opacity=0);
-	-moz-opacity:0.0;
-	opacity: 0.0;
+	background:url(../images/border.png) repeat-x 0px 0px #FFFFFF;
 	padding: 1.5em 0 1.2em;
 	border-bottom: 1px solid rgba(214, 213, 212, 0.64);
 	position: fixed;
